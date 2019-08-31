@@ -33,7 +33,7 @@ input{
  button submit{
      padding-right:3em;
 }
-.blueborder{
+.container{
     border: 30px solid;
 border-color: #658cbb;
 }
